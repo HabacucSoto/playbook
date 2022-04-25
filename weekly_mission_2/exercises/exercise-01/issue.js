@@ -2,7 +2,7 @@ const issue = {
     title: '09 Live 3 Semana 3 [Jueves 21 de Abril 8 PM]',
     repositoryNameAssociated: 'MissionNodeJS',
     status: 'Open',
-    numberOfComments: '48',
+    numberOfComments: 48,
     labels: ['FINALIZADO', 'LIVE 3', 'Semana-3'],
     author: '@carlogilmar',
     dateCreated: 'April 17',
